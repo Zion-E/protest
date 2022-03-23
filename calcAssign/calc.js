@@ -1,3 +1,4 @@
+// three functions to work with
 function display(val){
 
     document.getElementById('result').value += val
@@ -16,6 +17,7 @@ function display(val){
     return y
   
   }
+
   function clearScreen(){
   
     document.getElementById('result').value = ''
