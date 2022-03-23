@@ -1,5 +1,6 @@
 // three functions to work with
 // still trying to work it out
+
 function display(val){
 
     document.getElementById('result').value += val
@@ -24,3 +25,5 @@ function display(val){
     document.getElementById('result').value = ''
   
   }
+
+  // all three functions are actively functioning
