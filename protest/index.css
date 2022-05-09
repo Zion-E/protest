@@ -1,0 +1,53 @@
+.container1  {
+    background-image: url(../protest/pictures/crowd.jpg);
+    height: 610px;
+    background-color: black;
+    opacity: 5.5;
+}
+.nav-link {
+    color: white;
+}
+.SOR1 {
+    color: transparent;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 2px;
+    font-family: Roboto; font-style:normal;
+    font-weight:900; font-size: 70px;
+    margin-top: 30px;
+}
+.SOR2 {
+    color: white;
+    font-family: Roboto; margin-top: -48px;
+    font-weight:900; 
+    font-style:normal; 
+    font-size: 70px;
+}
+.SOR3 {
+    color: transparent;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 2px;
+    font-family: Roboto; font-style:normal;
+    font-weight:900; font-size: 70px;
+    margin-top: -47px;
+}
+.container2 {
+    margin-top: 50px; 
+    /* margin-left: 0px; margin-right: 0px; */
+}
+p.row {
+    background-color: green;
+    width:45px; height:5px; 
+    margin-left: 3px; margin-top: -10px;
+}
+
+
+button.btn-success {
+    width: 120px; 
+    margin-top: 150px; margin-left: 30%;
+    border-radius: 40px; height: 40px;
+}
+
+footer.text-center {
+    background-color: rgba(0, 0, 0, 0.747); 
+    color:white;
+}
