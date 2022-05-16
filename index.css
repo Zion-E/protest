@@ -1,0 +1,93 @@
+#FP {
+    background-image: url(../protest/pictures/crowd.jpg);
+    height: 500px;
+}
+
+#fold {
+    height: 500px;
+    background-color: black;
+    opacity: 0.7;
+}
+#logo {
+    margin-top: 10px;
+}
+.nav-item {
+    color: white;
+}
+.SOR1 {
+    color: transparent;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 2px;
+    font-family: Roboto; font-style:normal;
+    font-weight:900; font-size: 70px;
+    margin-top: 30px;
+}
+.SOR2 {
+    color: white;
+    font-family: Roboto; margin-top: -48px;
+    font-weight:900; 
+    font-style:normal; 
+    font-size: 70px;
+}
+.SOR3 {
+    color: transparent;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 2px;
+    font-family: Roboto; font-style:normal;
+    font-weight:900; font-size: 70px;
+    margin-top: -47px;
+}
+#ipsum {
+    color: white;
+}
+.ipsum {
+    margin-top: -20px;
+}
+#donate {
+        width: 120px; border-radius: 40px; height: 40px; margin-top: 50px;
+        background-color: green; margin-left: 45%; color: white;
+}
+#bleem {
+    height: 400px;
+}
+.row {
+    padding-left: 50px; padding-right: 30px;
+}
+.WWA {
+    color: green;
+}
+.col {
+    padding-top: 40px; width: 50%;
+}
+.rectangle {
+    width: 50px; height: 5px; background-color: green; margin-top: -7px;
+}
+#lp {
+    margin-top: 25px;
+}
+
+#CA {
+    background-color: aliceblue; margin-inline: 4px; border-radius: 8px;
+}
+
+#cf3 {
+    padding-left: 15%; padding-right: 15%;
+}
+#wwd {
+    margin-top: 30px; 
+}
+#alice {
+    margin-top: 20px;
+}
+#cf4 {
+    background-image: url(../protest/pictures/kids.png);
+    height: 400px; margin-top: 30px;
+}
+
+.reach {
+    color: white; margin-top: 100px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.747); 
+    color:white;
+}
